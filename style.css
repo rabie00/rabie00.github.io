@@ -1,0 +1,59 @@
+#big{
+	color: green;
+	font-size:  20px;
+	width: 500px;
+	border: solid 5px blue;
+	padding: 15px;
+	margin: 0 auto;
+
+	font-family: arial;
+
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#abc{
+	font-size: 20px;
+	color: green;
+	width: 500px;
+	border: solid 5px blue;
+	padding: 15px;
+	margin: 0 auto;
+}
+#def{
+	font-size: 20px;
+	color: green;
+	width: 500px;
+	border: solid 5px blue;
+	padding: 15px;
+	margin: 0 auto;
+}
+#gh{
+	font-size: 20px;
+	color: green;
+	width: 500px;
+	border: solid 5px blue;
+	padding: 15px;
+	margin: 0 auto;
+
+}
+#www{
+	font-size: 20px;
+	color: green;
+	width: 500px;
+	border: solid 5px blue;
+	padding: 15px;
+	margin: 0 auto;
+
+
+}
+{.cen
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
